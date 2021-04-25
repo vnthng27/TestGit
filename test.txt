@@ -1,7 +1,4 @@
 
 Hello World!
-<<<<<<< HEAD
 Hi everyone!
-=======
 Welcome to my GitHub
->>>>>>> 393fbe2e1e70234da40605d62217c4eb2bae65cb
